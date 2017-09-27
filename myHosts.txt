@@ -10,3 +10,4 @@
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 js.agkn.com
 0.0.0.0 tlx.3lift.com
+0.0.0.0 paid.outbrain.com
