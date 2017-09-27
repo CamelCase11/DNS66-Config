@@ -1,0 +1,252 @@
+{
+  "autoStart": true,
+  "dnsServers": {
+    "enabled": false,
+    "items": [
+      {
+        "location": "213.73.91.35",
+        "state": 1,
+        "title": "Chaos Computer Club (DE)"
+      },
+      {
+        "location": "85.214.20.141",
+        "state": 1,
+        "title": "Digitalcourage e.V. (DE)"
+      },
+      {
+        "location": "194.150.168.168",
+        "state": 1,
+        "title": "AS250.NET (DE)"
+      },
+      {
+        "location": "84.200.69.80",
+        "state": 1,
+        "title": "dns.watch server 1 (DE)"
+      },
+      {
+        "location": "84.200.70.40",
+        "state": 1,
+        "title": "dns.watch server 2 (DE)"
+      },
+      {
+        "location": "204.152.184.76",
+        "state": 0,
+        "title": "ISC (US)"
+      }
+    ]
+  },
+  "hosts": {
+    "automaticRefresh": true,
+    "enabled": true,
+    "items": [
+      {
+        "location": "https://hosts-file.net/grm.txt",
+        "state": 0,
+        "title": "grm.txt"
+      },
+      {
+        "location": "https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts",
+        "state": 0,
+        "title": "minimalhosts"
+      },
+      {
+        "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts",
+        "state": 0,
+        "title": "hosts1"
+      },
+      {
+        "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts",
+        "state": 0,
+        "title": "hosts2"
+      },
+      {
+        "location": "https://v.firebog.net/hosts/static/w3kbl.txt",
+        "state": 0,
+        "title": "w3kbl.txt"
+      },
+      {
+        "location": "https://adaway.org/hosts.txt",
+        "state": 0,
+        "title": "hosts.txt"
+      },
+      {
+        "location": "https://v.firebog.net/hosts/AdguardDNS.txt",
+        "state": 0,
+        "title": "AdguardDNS.txt"
+      },
+      {
+        "location": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
+        "state": 0,
+        "title": "simple_ad.txt"
+      },
+      {
+        "location": "https://hosts-file.net/ad_servers.txt",
+        "state": 0,
+        "title": "ad_servers.txt"
+      },
+      {
+        "location": "https://v.firebog.net/hosts/Easylist.txt",
+        "state": 0,
+        "title": "Easylist.txt"
+      },
+      {
+        "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/SpotifyAds/hosts",
+        "state": 0,
+        "title": "hosts3"
+      },
+      {
+        "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts",
+        "state": 0,
+        "title": "hosts4"
+      },
+      {
+        "location": "https://v.firebog.net/hosts/Airelle-trc.txt",
+        "state": 0,
+        "title": "Airelle-trc.txt"
+      },
+      {
+        "location": "https://gist.githubusercontent.com/CHEF-KOCH/080efada22b9659ef61241029122873b/raw/7f9bd984d3c46b3dba2de7606da579bc0ac6780c/Canvas%2520Font%2520Fingerprinting%2520pages%2520%255B2017%2520Edition%255D",
+        "state": 0,
+        "title": "Canvas%2520Font%2520Fingerprinting%2520pages%2520%255B2017%2520Edition%255D"
+      },
+      {
+        "location": "https://gist.githubusercontent.com/CHEF-KOCH/5a7b1593d1880f906b12a3c87cee4500/raw/3ba028508feb2ef67a3d7ab75f428fd284223e8b/WebRTC%2520tracking%2520list%2520%255B2017%2520Edition%255D.txt",
+        "state": 0,
+        "title": "WebRTC%2520tracking%2520list%2520%255B2017%2520Edition%255D.txt"
+      },
+      {
+        "location": "https://gist.githubusercontent.com/CHEF-KOCH/63fd2e506cb34a2378ad2620ab06d2e0/raw/fb9f16e3ac998d3f773ebdfee4aa3bfd10a5d763/Audio%2520fingerprint%2520pages%2520%255B2017%2520Edition.exe",
+        "state": 0,
+        "title": "Audio%2520fingerprint%2520pages%2520%255B2017%2520Edition.exe"
+      },
+      {
+        "location": "https://gist.githubusercontent.com/CHEF-KOCH/2dea75d43b2184f228ae94b168d275b1/raw/35d7a4447a198449bbb3280e1c3d7a57517350de/Canvas%2520fingerprinting%2520pages%2520%255B2017%2520Edition%255D.exe",
+        "state": 0,
+        "title": "Canvas%2520fingerprinting%2520pages%2520%255B2017%2520Edition%255D.exe"
+      },
+      {
+        "location": "https://v.firebog.net/hosts/Easyprivacy.txt",
+        "state": 0,
+        "title": "Easyprivacy.txt"
+      },
+      {
+        "location": "https://v.firebog.net/hosts/Prigent-Ads.txt",
+        "state": 0,
+        "title": "Prigent-Ads.txt"
+      },
+      {
+        "location": "https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt",
+        "state": 0,
+        "title": "trackers.txt"
+      },
+      {
+        "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts",
+        "state": 0,
+        "title": "hosts5"
+      },
+      {
+        "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tyzbit/hosts",
+        "state": 0,
+        "title": "hosts6"
+      },
+      {
+        "location": "https://v.firebog.net/hosts/Airelle-hrsk.txt",
+        "state": 0,
+        "title": "Airelle-hrsk.txt"
+      },
+      {
+        "location": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
+        "state": 0,
+        "title": "simple_malvertising.txt"
+      },
+      {
+        "location": "https://mirror1.malwaredomains.com/files/justdomains",
+        "state": 0,
+        "title": "justdomains"
+      },
+      {
+        "location": "https://hosts-file.net/exp.txt",
+        "state": 0,
+        "title": "exp.txt"
+      },
+      {
+        "location": "https://hosts-file.net/emd.txt",
+        "state": 0,
+        "title": "emd.txt"
+      },
+      {
+        "location": "https://hosts-file.net/psh.txt",
+        "state": 0,
+        "title": "psh.txt"
+      },
+      {
+        "location": "https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt",
+        "state": 0,
+        "title": "immortal_domains.txt"
+      },
+      {
+        "location": "https://www.malwaredomainlist.com/hostslist/hosts.txt",
+        "state": 0,
+        "title": "hosts.txt"
+      },
+      {
+        "location": "https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
+        "state": 0,
+        "title": "Mandiant_APT1_Report_Appendix_D.txt"
+      },
+      {
+        "location": "https://openphish.com/feed.txt",
+        "state": 0,
+        "title": "feed.txt"
+      },
+      {
+        "location": "https://v.firebog.net/hosts/Prigent-Malware.txt",
+        "state": 0,
+        "title": "Prigent-Malware.txt"
+      },
+      {
+        "location": "https://v.firebog.net/hosts/Prigent-Phishing.txt",
+        "state": 0,
+        "title": "Prigent-Phishing.txt"
+      },
+      {
+        "location": "https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt",
+        "state": 0,
+        "title": "malicious-sites.txt"
+      },
+      {
+        "location": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt",
+        "state": 0,
+        "title": "RW_DOMBL.txt"
+      },
+      {
+        "location": "https://v.firebog.net/hosts/Shalla-mal.txt",
+        "state": 0,
+        "title": "Shalla-mal.txt"
+      },
+      {
+        "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts",
+        "state": 0,
+        "title": "hosts7"
+      },
+      {
+        "location": "https://zeustracker.abuse.ch/blocklist.php?download\\u003ddomainblocklist",
+        "state": 0,
+        "title": "blocklist.php?download\\u003ddomainblocklist"
+      }
+    ]
+  },
+  "ipV6Support": true,
+  "nightMode": false,
+  "showNotification": true,
+  "version": 1,
+  "watchDog": true,
+  "whitelist": {
+    "defaultMode": 2,
+    "items": [
+      "com.android.vending"
+    ],
+    "itemsOnVpn": [],
+    "showSystemApps": false
+  }
+}
