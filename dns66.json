@@ -40,6 +40,11 @@
     "enabled": true,
     "items": [
       {
+        "location": "https://raw.githubusercontent.com/CamelCase11/DNS66-Config/master/myHosts.txt",
+        "state": 0,
+        "title": "CamelCaseHosts"
+      },
+      {
         "location": "https://hosts-file.net/grm.txt",
         "state": 0,
         "title": "grm.txt"
