@@ -52,12 +52,12 @@
       {
         "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts",
         "state": 0,
-        "title": "hosts1"
+        "title": "KADhosts"
       },
       {
         "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts",
         "state": 0,
-        "title": "hosts2"
+        "title": "Spam"
       },
       {
         "location": "https://v.firebog.net/hosts/static/w3kbl.txt",
@@ -65,174 +65,239 @@
         "title": "w3kbl.txt"
       },
       {
+        "location": "https://v.firebog.net/hosts/BillStearns.txt",
+        "state": 0,
+        "title": "BillStearns"
+      },
+      {
+        "location": "http://sysctl.org/cameleon/hosts",
+        "state": 0,
+        "title": "cameleon"
+      },
+      {
+        "location": "https://www.dshield.org/feeds/suspiciousdomains_Low.txt",
+        "state": 0,
+        "title": "suspiciousdomains_Low"
+      },
+      {
+        "location": "http://www.joewein.net/dl/bl/dom-bl-base.txt",
+        "state": 0,
+        "title": "joewein"
+      },
+      {
+        "location": "https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt",
+        "state": 0,
+        "title": "spammers"
+      },
+      {
+        "location": "https://hostsfile.org/Downloads/hosts.txt",
+        "state": 0,
+        "title": "hostsfile"
+      },
+      {
+        "location": "http://someonewhocares.org/hosts/zero/hosts",
+        "state": 0,
+        "title": "someonewhocares"
+      },
+      {
+        "location": "https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt",
+        "state": 0,
+        "title": "Dawsey21"
+      },
+      {
+        "location": "https://raw.githubusercontent.com/vokins/yhosts/master/hosts",
+        "state": 0,
+        "title": "yhosts"
+      },
+      {
+        "location": "http://winhelp2002.mvps.org/hosts.txt",
+        "state": 0,
+        "title": "winhelp2002"
+      },
+      {
+        "location": "https://hostsfile.mine.nu/hosts0.txt",
+        "state": 0,
+        "title": "mine.nu"
+      },
+      {
+        "location": "https://v.firebog.net/hosts/Kowabit.txt",
+        "state": 0,
+        "title": "Kowabit"
+      },
+      {
+        "location": "https://adblock.mahakala.is",
+        "state": 0,
+        "title": "mahakala"
+      },
+      {
         "location": "https://adaway.org/hosts.txt",
         "state": 0,
-        "title": "hosts.txt"
+        "title": "adaway"
       },
       {
         "location": "https://v.firebog.net/hosts/AdguardDNS.txt",
         "state": 0,
-        "title": "AdguardDNS.txt"
+        "title": "AdguardDNS"
       },
       {
         "location": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
         "state": 0,
-        "title": "simple_ad.txt"
+        "title": "disconnect_ad"
       },
       {
         "location": "https://hosts-file.net/ad_servers.txt",
         "state": 0,
-        "title": "ad_servers.txt"
+        "title": "ad_servers"
       },
       {
         "location": "https://v.firebog.net/hosts/Easylist.txt",
         "state": 0,
-        "title": "Easylist.txt"
+        "title": "Easylist"
       },
       {
         "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/SpotifyAds/hosts",
         "state": 0,
-        "title": "hosts3"
+        "title": "SpotifyAds"
       },
       {
         "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts",
         "state": 0,
-        "title": "hosts4"
+        "title": "UncheckyAds"
       },
       {
         "location": "https://v.firebog.net/hosts/Airelle-trc.txt",
         "state": 0,
-        "title": "Airelle-trc.txt"
-      },
-      {
-        "location": "https://gist.githubusercontent.com/CHEF-KOCH/080efada22b9659ef61241029122873b/raw/7f9bd984d3c46b3dba2de7606da579bc0ac6780c/Canvas%2520Font%2520Fingerprinting%2520pages%2520%255B2017%2520Edition%255D",
-        "state": 0,
-        "title": "Canvas%2520Font%2520Fingerprinting%2520pages%2520%255B2017%2520Edition%255D"
-      },
-      {
-        "location": "https://gist.githubusercontent.com/CHEF-KOCH/5a7b1593d1880f906b12a3c87cee4500/raw/3ba028508feb2ef67a3d7ab75f428fd284223e8b/WebRTC%2520tracking%2520list%2520%255B2017%2520Edition%255D.txt",
-        "state": 0,
-        "title": "WebRTC%2520tracking%2520list%2520%255B2017%2520Edition%255D.txt"
-      },
-      {
-        "location": "https://gist.githubusercontent.com/CHEF-KOCH/63fd2e506cb34a2378ad2620ab06d2e0/raw/fb9f16e3ac998d3f773ebdfee4aa3bfd10a5d763/Audio%2520fingerprint%2520pages%2520%255B2017%2520Edition.exe",
-        "state": 0,
-        "title": "Audio%2520fingerprint%2520pages%2520%255B2017%2520Edition.exe"
-      },
-      {
-        "location": "https://gist.githubusercontent.com/CHEF-KOCH/2dea75d43b2184f228ae94b168d275b1/raw/35d7a4447a198449bbb3280e1c3d7a57517350de/Canvas%2520fingerprinting%2520pages%2520%255B2017%2520Edition%255D.exe",
-        "state": 0,
-        "title": "Canvas%2520fingerprinting%2520pages%2520%255B2017%2520Edition%255D.exe"
+        "title": "Airelle-trc"
       },
       {
         "location": "https://v.firebog.net/hosts/Easyprivacy.txt",
         "state": 0,
-        "title": "Easyprivacy.txt"
+        "title": "Easyprivacy"
       },
       {
         "location": "https://v.firebog.net/hosts/Prigent-Ads.txt",
         "state": 0,
-        "title": "Prigent-Ads.txt"
+        "title": "Prigent-Ads"
       },
       {
         "location": "https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt",
         "state": 0,
-        "title": "trackers.txt"
+        "title": "notrack"
       },
       {
         "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts",
         "state": 0,
-        "title": "hosts5"
+        "title": "add.2o7Net"
       },
       {
         "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/tyzbit/hosts",
         "state": 0,
-        "title": "hosts6"
+        "title": "tyzbit"
+      },
+      {
+        "location": "https://gist.githubusercontent.com/CHEF-KOCH/080efada22b9659ef61241029122873b/raw/7f9bd984d3c46b3dba2de7606da579bc0ac6780c/Canvas%2520Font%2520Fingerprinting%2520pages%2520%255B2017%2520Edition%255D",
+        "state": 0,
+        "title": "font fingerprinting"
+      },
+      {
+        "location": "https://gist.githubusercontent.com/CHEF-KOCH/5a7b1593d1880f906b12a3c87cee4500/raw/3ba028508feb2ef67a3d7ab75f428fd284223e8b/WebRTC%2520tracking%2520list%2520%255B2017%2520Edition%255D.txt",
+        "state": 0,
+        "title": "WebRTC tracking"
+      },
+      {
+        "location": "https://gist.githubusercontent.com/CHEF-KOCH/63fd2e506cb34a2378ad2620ab06d2e0/raw/fb9f16e3ac998d3f773ebdfee4aa3bfd10a5d763/Audio%2520fingerprint%2520pages%2520%255B2017%2520Edition.exe",
+        "state": 0,
+        "title": "audio fingerprinting"
+      },
+      {
+        "location": "https://gist.githubusercontent.com/CHEF-KOCH/2dea75d43b2184f228ae94b168d275b1/raw/35d7a4447a198449bbb3280e1c3d7a57517350de/Canvas%2520fingerprinting%2520pages%2520%255B2017%2520Edition%255D.exe",
+        "state": 0,
+        "title": "Canvas fingerprinting"
+      },
+      {
+        "location": "https://v.firebog.net/hosts/static/SamsungSmart.txt",
+        "state": 0,
+        "title": "SamsungSmart"
       },
       {
         "location": "https://v.firebog.net/hosts/Airelle-hrsk.txt",
         "state": 0,
-        "title": "Airelle-hrsk.txt"
+        "title": "Airelle-hrsk"
       },
       {
         "location": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
         "state": 0,
-        "title": "simple_malvertising.txt"
+        "title": "simple_malvertising"
       },
       {
         "location": "https://mirror1.malwaredomains.com/files/justdomains",
         "state": 0,
-        "title": "justdomains"
+        "title": "malwaredomains"
       },
       {
         "location": "https://hosts-file.net/exp.txt",
         "state": 0,
-        "title": "exp.txt"
+        "title": "exp"
       },
       {
         "location": "https://hosts-file.net/emd.txt",
         "state": 0,
-        "title": "emd.txt"
+        "title": "emd"
       },
       {
         "location": "https://hosts-file.net/psh.txt",
         "state": 0,
-        "title": "psh.txt"
+        "title": "psh"
       },
       {
         "location": "https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt",
         "state": 0,
-        "title": "immortal_domains.txt"
+        "title": "immortal_domains"
       },
       {
         "location": "https://www.malwaredomainlist.com/hostslist/hosts.txt",
         "state": 0,
-        "title": "hosts.txt"
+        "title": "malwaredomainlist hosts"
       },
       {
         "location": "https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
         "state": 0,
-        "title": "Mandiant_APT1_Report_Appendix_D.txt"
-      },
-      {
-        "location": "https://openphish.com/feed.txt",
-        "state": 0,
-        "title": "feed.txt"
+        "title": "dns-blacklists"
       },
       {
         "location": "https://v.firebog.net/hosts/Prigent-Malware.txt",
         "state": 0,
-        "title": "Prigent-Malware.txt"
+        "title": "Prigent-Malware"
       },
       {
         "location": "https://v.firebog.net/hosts/Prigent-Phishing.txt",
         "state": 0,
-        "title": "Prigent-Phishing.txt"
+        "title": "Prigent-Phishing"
       },
       {
         "location": "https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt",
         "state": 0,
-        "title": "malicious-sites.txt"
+        "title": "malicious-sites"
       },
       {
         "location": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt",
         "state": 0,
-        "title": "RW_DOMBL.txt"
+        "title": "ransomwaretracker"
       },
       {
         "location": "https://v.firebog.net/hosts/Shalla-mal.txt",
         "state": 0,
-        "title": "Shalla-mal.txt"
+        "title": "Shalla-mal"
       },
       {
         "location": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts",
         "state": 0,
-        "title": "hosts7"
+        "title": "add.risk"
       },
       {
-        "location": "https://zeustracker.abuse.ch/blocklist.php?download\\u003ddomainblocklist",
+        "location": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist",
         "state": 0,
-        "title": "blocklist.php?download\\u003ddomainblocklist"
+        "title": "zeustracker"
       }
     ]
   },
